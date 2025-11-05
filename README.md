@@ -173,12 +173,6 @@ If you use the CSVs, please reference the dataset DOI:
 
 ---
 
-## 📝 License
-
-Add your preferred license file (e.g., MIT/Apache-2.0). If omitted, this code is provided “as is”.
-
----
-
 ## 🙌 Acknowledgments
 
 - ResNet-50 pretraining: ImageNet (TorchVision).
